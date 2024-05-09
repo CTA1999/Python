@@ -1,9 +1,4 @@
-'''
-Cecilia Adeniran
-CS7 section D01
-Programming Assignment 8
-5/3/24
-'''
+
 import random
 def coinflip():
     flip = random.randint(1, 2)
