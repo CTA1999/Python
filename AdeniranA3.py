@@ -1,9 +1,3 @@
-'''
-Cecilia Adeniran
-PA3
-cs7 - section D01:
-2/17/24
-'''
 
 import math
 
